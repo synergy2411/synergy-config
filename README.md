@@ -1,0 +1,1 @@
+Synegy bank Configuration
